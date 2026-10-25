@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "Estaciones_IDEAM",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"fid":2,"CODIGO":"23085270","nombre":"AEROPUERTO JOSÉ MARÍA CÓRDOVA - AUT [23085270]","CATEGORIA":"SP","altitud":2073.0,"latitud":6.1686111,"longitud":-75.42611111,"P_media":1846.172},"geometry":{"type":"Point","coordinates":[-75.426111109999965,6.168611100000021]}},
+{"type":"Feature","properties":{"fid":3,"CODIGO":"26180200","nombre":"MONTEBELLO [26180200]","CATEGORIA":"PM","altitud":2129.0,"latitud":5.9503,"longitud":-75.5369,"P_media":2131.074},"geometry":{"type":"Point","coordinates":[-75.5369,5.9503]}},
+{"type":"Feature","properties":{"fid":4,"CODIGO":"26205080","nombre":"LA ALDEA [26205080]","CATEGORIA":"ME","altitud":1737.0,"latitud":6.34105556,"longitud":-75.70094444,"P_media":1902.533},"geometry":{"type":"Point","coordinates":[-75.700944439999944,6.341055560000029]}},
+{"type":"Feature","properties":{"fid":5,"CODIGO":"27010770","nombre":"EL CHUSCAL [27010770]","CATEGORIA":"PM","altitud":2227.0,"latitud":6.17833333,"longitud":-75.70508333,"P_media":2505.721},"geometry":{"type":"Point","coordinates":[-75.705083329999979,6.178333330000044]}},
+{"type":"Feature","properties":{"fid":6,"CODIGO":"27010800","nombre":"LA MESETA SAN PEDRO [27010800]","CATEGORIA":"PM","altitud":2600.0,"latitud":6.39972222,"longitud":-75.60722222,"P_media":1586.974},"geometry":{"type":"Point","coordinates":[-75.607222219999983,6.399722220000058]}},
+{"type":"Feature","properties":{"fid":7,"CODIGO":"27010810","nombre":"SANTA ELENA - AUT [27010810]","CATEGORIA":"CO","altitud":2707.0,"latitud":6.19685556,"longitud":-75.51686111,"P_media":2248.384},"geometry":{"type":"Point","coordinates":[-75.516861109999979,6.196855560000074]}},
+{"type":"Feature","properties":{"fid":8,"CODIGO":"27011110","nombre":"ASTILLEROS [27011110]","CATEGORIA":"PM","altitud":2450.0,"latitud":6.25730556,"longitud":-75.67586111,"P_media":2010.894},"geometry":{"type":"Point","coordinates":[-75.675861109999971,6.25730556000002]}},
+{"type":"Feature","properties":{"fid":9,"CODIGO":"27011120","nombre":"LA IGUANA [27011120]","CATEGORIA":"PG","altitud":2300.0,"latitud":6.31627778,"longitud":-75.65752778,"P_media":1860.992},"geometry":{"type":"Point","coordinates":[-75.657527779999953,6.316277780000064]}},
+{"type":"Feature","properties":{"fid":10,"CODIGO":"27011270","nombre":"LAURELES-MEDELLIN [27011270]","CATEGORIA":"PG","altitud":1512.0,"latitud":6.24641667,"longitud":-75.59105556,"P_media":1695.837},"geometry":{"type":"Point","coordinates":[-75.591055559999973,6.246416670000031]}},
+{"type":"Feature","properties":{"fid":11,"CODIGO":"27015090","nombre":"TULIO OSPINA [27015090]","CATEGORIA":"CO","altitud":1907.0,"latitud":6.32170278,"longitud":-75.55534167,"P_media":1526.347},"geometry":{"type":"Point","coordinates":[-75.555341669999962,6.321702780000066]}},
+{"type":"Feature","properties":{"fid":13,"CODIGO":"27015330","nombre":"AEROPUERTO OLAYA HERRERA [27015330]","CATEGORIA":"SP","altitud":1492.0,"latitud":6.2246389,"longitud":-75.5882,"P_media":1667.457},"geometry":{"type":"Point","coordinates":[-75.5882,6.224638900000059]}},
+{"type":"Feature","properties":{"fid":15,"CODIGO":"2620500209","nombre":"ACUEDUCTO ARMENIA - AUT [2620500209]","CATEGORIA":"CO","altitud":1880.0,"latitud":6.16166667,"longitud":-75.77580556,"P_media":2248.574},"geometry":{"type":"Point","coordinates":[-75.775805559999981,6.161666670000045]}},
+{"type":"Feature","properties":{"fid":16,"CODIGO":"2620500211","nombre":"EL PLAN - AUT [2620500211]","CATEGORIA":"CO","altitud":1750.0,"latitud":5.92472222,"longitud":-75.66738056,"P_media":2075.735},"geometry":{"type":"Point","coordinates":[-75.66738055999997,5.924722220000035]}}
+]
+}
